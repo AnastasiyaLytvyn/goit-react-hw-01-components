@@ -1,5 +1,5 @@
 .profile {
-  width: 430px;
+  width: 400px;
   margin: 20px auto;
   border-radius: 20px;
   overflow: hidden;
@@ -21,7 +21,7 @@
 }
 
 .avatar {
-  width: 380px;
+  width: 350px;
 }
 
 .name {
